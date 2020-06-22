@@ -1,0 +1,20 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description.  Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in.  You must
+# make exactly 11 lines for the formatting to be correct.  It's also
+# customary to leave one space after the ':'.
+
+       |-----handy-ruler------------------------------------------------------|
+libunbound: libunbound
+libunbound: 
+libunbound: Unbound is a validating, recursive, caching DNS resolver.
+libunbound: It is designed to be fast and lean and incorporates modern features
+libunbound: based on open standards.  To help increase online privacy, Unbound  
+libunbound: supports DNS-over-TLS which allows clients to encrypt their 
+libunbound: communication. In addition, it supports various modern standards 
+libunbound: that limit the amount of data exchanged with authoritative servers.
+libunbound: These standards dont only improve privacy but also help making the  
+libunbound: DNS more robust. The most important are Query Name Minimisation,
+libunbound: the Aggressive Use of DNSSEC-Validated Cache and support for 
+libunbound: authority zones, which can be used to load a copy of the root zone.
